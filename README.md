@@ -8,7 +8,7 @@ I like understanding how things work under the hood, designing architectures fro
 - Languages, runtimes, and data formats  
 - Backend-heavy systems and infrastructure  
 - Tooling, developer experience, and performance  
-- Experimental ideas under **Emagjby Labs**
+- Experimental ideas under [**Emagjby Labs**](https://github.com/EmagjbyLabs)
 
 Most finished work lives on my personal GitHub.  
-Experiments and research live in Emagjby Labs.
+Experiments and research live in [Emagjby Labs](https://github.com/EmagjbyLabs).
