@@ -10,11 +10,5 @@ I like understanding how things work under the hood, designing architectures fro
 - Tooling, developer experience, and performance  
 - Experimental ideas under **Emagjby Labs**
 
-### Philosophy
-- Learn by building
-- Prefer clarity over magic
-- Ship early, refine relentlessly
-- Good tools should disappear
-
 Most finished work lives on my personal GitHub.  
 Experiments and research live in Emagjby Labs.
