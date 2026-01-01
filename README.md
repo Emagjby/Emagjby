@@ -1,16 +1,20 @@
-## Hi there 👋
+### GenchoXD
 
-<!--
-**Emagjby/Emagjby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Just a developer focused on building solid systems, clean abstractions, and tools that feel good to use.
 
-Here are some ideas to get you started:
+I like understanding how things work under the hood, designing architectures from scratch, and learning by building real projects instead of following tutorials.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I work on:
+- Languages, runtimes, and data formats  
+- Backend-heavy systems and infrastructure  
+- Tooling, developer experience, and performance  
+- Experimental ideas under **Emagjby Labs**
+
+### Philosophy
+- Learn by building
+- Prefer clarity over magic
+- Ship early, refine relentlessly
+- Good tools should disappear
+
+Most finished work lives on my personal GitHub.  
+Experiments and research live in Emagjby Labs.
